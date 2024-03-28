@@ -37,34 +37,13 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use![Screenshot 2024-03-28 174507](https://github.com/Jasser-Mrabet/ChowNow-Restaurant/assets/141030883/19ae8d23-4712-428e-811b-77df354e6182)
+ `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Output ![Screenshot 2024-03-28 174507](https://github.com/Jasser-Mrabet/ChowNow-Restaurant/assets/141030883/bcf44f5e-343e-41cc-9492-3ec0149c6bcb)
+![Screenshot 2024-03-28 174526](https://github.com/Jasser-Mrabet/ChowNow-Restaurant/assets/141030883/9c295426-d52e-4644-897a-1315af8d0941)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot 2024-03-28 174542](https://github.com/Jasser-Mrabet/ChowNow-Restaurant/assets/141030883/17fbb4a6-a186-4f2a-a147-2871eb148503)
+![Screenshot 2024-03-28 174556](https://github.com/Jasser-Mrabet/ChowNow-Restaurant/assets/141030883/fbb9bb41-5422-4441-8e2d-46ff1649aaf1)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
